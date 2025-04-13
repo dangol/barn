@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="barn layouts" id="1bw2kLN_7pUAFRUjhU26">
-    <mxGraphModel dx="519" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1556" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,12 +267,6 @@
         </mxCell>
         <mxCell id="zIE6sgV4vXfkruaz9dAc-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" parent="1" vertex="1">
           <mxGeometry x="340" y="430" width="100" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="nMXojul2NnLc9ZY-lyID-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nMXojul2NnLc9ZY-lyID-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nMXojul2NnLc9ZY-lyID-3" value="Generator&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Pad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="622" width="60" height="90" as="geometry" />
